@@ -10,7 +10,27 @@
 
 ###
 
-<p align="left">With over 3 years of web development experience, I have been involved in key projects focused on operational efficiency, data centralization and improving customer experience. Below are some of the most notable projects:<br><br>📱 Integrated Chat with WhatsApp - Centralization, Organization, Measurement<br>I developed a messaging platform integrated with WhatsApp that allows centralizing communication with customers on a single enterprise device. The solution allows multiple users to interact simultaneously, efficiently organizing conversations and facilitating customer satisfaction tracking through integrated metrics.<br><br>🗺️ Monitoring System with Map - Geofences, Real-Time Alerts, Georoutes<br>I implemented a real-time monitoring system for transportation units, incorporating advanced functionalities such as geofences, georoutes and immediate alerts. The system automatically notifies when a unit enters or leaves a defined zone, and performs timely tracking of compliance with specific routes.<br><br>📊 Executive Dashboards - Data Centralization, KPIs, Trends<br>I have developed executive and management dashboards that consolidate financial information, key metrics (KPIs) and interactive reports. These tools enable managers to make informed decisions, identify trends and optimize operations through dynamic and accurate visualizations.<br><br>🔍Automation with Web Scraping - Data Optimization and Centralization<br>I have worked with several scraping technologies to extract and centralize data from multiple web sources. These solutions have allowed to reduce operational times and improve the accuracy of the information used in business decision making.</p>
+<p align="left">With over 3 years of web development experience, I have been involved in key projects focused on
+    operational efficiency, data centralization and improving customer experience. Below are some of the most notable
+    projects:
+    <br><br>📊 Executive Dashboards - Data Centralization, KPIs, Trends<br>I have
+    developed executive and management dashboards that consolidate financial information, key metrics (KPIs) and
+    interactive reports. These tools enable managers to make informed decisions, identify trends and optimize operations
+    through dynamic and accurate visualizations.
+    <br><br>🗺️ Monitoring
+    System with Map - Geofences, Real-Time Alerts, Georoutes<br>I implemented a real-time monitoring system for
+    transportation units, incorporating advanced functionalities such as geofences, georoutes and immediate alerts. The
+    system automatically notifies when a unit enters or leaves a defined zone, and performs timely tracking of
+    compliance with specific routes.
+    <br><br>🔍Automation with Web Scraping - Data Optimization and
+    Centralization<br>I have worked with several scraping technologies to extract and centralize data from multiple web
+    sources. These solutions have allowed to reduce operational times and improve the accuracy of the information used
+    in business decision making.
+    <br><br>📱 Integrated Chat with WhatsApp - Centralization, Organization, Measurement<br>I developed a
+    messaging platform integrated with WhatsApp that allows centralizing communication with customers on a single
+    enterprise device. The solution allows multiple users to interact simultaneously, efficiently organizing
+    conversations and facilitating customer satisfaction tracking through integrated metrics.
+</p>
 
 ###
 
